@@ -55,8 +55,8 @@ body {
 .text-in-header {
 	color: #000000;
 	text-align: center;
-	font-style: italic;
 	text-decoration: underline #E0CBCF;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
 }
 
 .quote {
