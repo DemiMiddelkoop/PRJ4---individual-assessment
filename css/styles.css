@@ -6,8 +6,8 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", open Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"Arial, sans-serif;
-	color: #202030;
+	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", open Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif" Arial, sans-serif;
+	color: #000000;
 	background-color: #f8f8fc;
 }
 
@@ -15,6 +15,7 @@ body {
 
 .resume-header {
     background-color: #F3F3F3;
+	color: #000000
 }
 
 .resume-main {
@@ -23,6 +24,7 @@ body {
 
 .resume-aside {
 	background-color: #E0CBCF;
+	color:#FFFFFF
 }
 
 /* Styles for lists in the document */
@@ -62,4 +64,10 @@ body {
 		text-align:left
 		font-style:
 }
+.language-progress {
+	background-color: #000000
+}
 
+.border-2 {
+	border-color: black
+}
