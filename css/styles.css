@@ -61,8 +61,6 @@ body {
 
 .quote {
 	color: #FFFFFF
-		text-align:left
-		font-style:
 }
 .language-progress {
 	background-color: #000000
@@ -70,4 +68,8 @@ body {
 
 .border-2 {
 	border-color: black
+}
+
+h2 {
+	font-family: "Edu NSW ACT Foundation", cursive;
 }
